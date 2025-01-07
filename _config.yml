@@ -29,7 +29,7 @@ repository               : "shenyehui/Yehui-Shen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.png" # Ensure this file exists
+  avatar           : "images/picture.png" # Ensure this file exists
   name             : "Yehui Shen"
   pronouns         : "" # Example: "he/him", leave empty if unused
   bio              : "I am a Master's student at Northeastern University (China)"
