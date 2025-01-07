@@ -22,12 +22,12 @@ repository               : "shenyehui/shenyehui.github.io"
 author:
   avatar            : "picture.png" # Ensure file exists in the 'images' folder
   name              : "Yehui Shen"
-  pronouns          : "" # Leave empty if unused
+  pronouns          : #"" # Leave empty if unused
   bio               : "I am a Master's student at Northeastern University (China)"
   location          : "China"
   employer          : "Northeastern University (China)"
-  uri               : "" # Leave empty if not needed
-  email             : "" # Ensure no value is set if unused
+  uri               : #"" # Leave empty if not needed
+  email             : #"" # Ensure no value is set if unused
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
