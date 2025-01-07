@@ -20,7 +20,7 @@ repository               : "shenyehui/Yehui-Shen.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar            : "images/picture.png" # Ensure file exists in the 'images' folder
+  avatar            : #"picture.png" # Ensure file exists in the 'images' folder
   name              : "Yehui Shen"
   pronouns          : "" # Leave empty if unused
   bio               : "I am a Master's student at Northeastern University (China)"
